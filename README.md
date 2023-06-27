@@ -11,7 +11,7 @@
 # Description
 
 ### Project origin
-Dashboard_UI is a backend project which i performed as one of the project given by my senior supervisors 
+Dashboard_UI is a frontend project which i performed as one of the project given by my senior supervisors 
 
 ### What it can do
 Dashboard_UI is a frontend project which displays well created and designed dashboard for User Interface uses.
